@@ -20,5 +20,5 @@ This Power BI dashboard analyzes over 11,000 e-commerce orders to evaluate:
 - Average Customer Rating
 
 ## 📁 Files Included
-- `ECommerce_Delivery_Analysis.pbix` – Main dashboard file
-- `ecommerce_data.csv` – Dataset used
+- `Ecommerce_Dashboard.pbix` – Main dashboard file
+- `Ecommerce Delivery.csv` – Dataset used
